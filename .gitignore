@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/.gitignore
+/ArraysandString/x64/Debug/ArraysandString.tlog
+*.obj
+/ArraysandString/x64/Debug
+/IOandLoop/x64/Debug/IOandLoop.tlog
+/IOandLoop/x64/Debug
+/.vs
+/SortingandSearching/x64/Debug/Sortinga.2b6db501.tlog
+/SortingandSearching/x64/Debug
