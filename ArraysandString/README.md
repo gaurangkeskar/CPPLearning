@@ -22,3 +22,6 @@ delete[] arr1;
 delete[] arr2;
 
  Comparing pointers will only check if they point to the same address, not the contents.
+
+
+ ![arraysandstring-output](https://github.com/user-attachments/assets/0589fe52-0937-40fc-9016-04d0cd29cb5d)
