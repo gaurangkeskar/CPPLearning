@@ -11,3 +11,6 @@ checked if i can create a copy of cout and cin objects.
 Learning
 found out that the copy constructor is deleted for cin and cout.
 auto depends upon the user implementation and takes usually more than 24 bytes.
+
+
+![IOandLoop](https://github.com/user-attachments/assets/ba4bcb63-7ebb-48ca-8aaa-83500c1cc67b)
