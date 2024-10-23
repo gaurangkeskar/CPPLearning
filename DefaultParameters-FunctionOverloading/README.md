@@ -1,0 +1,3 @@
+Function Overloading: You can define multiple functions with the same name but different parameter types. This allows for flexibility in handling different data types.
+Type Conversion: When passing mixed types (e.g., int and double), C++ automatically converts the int to double when necessary.
+Return Types: Make sure the return type matches the expected output to avoid confusion (e.g., using double for floating-point results).
